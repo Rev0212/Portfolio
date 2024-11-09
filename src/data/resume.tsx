@@ -6,11 +6,11 @@ export const DATA = {
   initials: "A",
   url: "https://rev.io",
   location: "Chennai, TamilNadu",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "https://www.google.com/maps/place/chennai",
   description:
-    "CSE student at SRM University, Chennai, with a drive for creating impactful solutions through code. I love building things and helping people. Very active on Instagram.",
+    "Turning Ideas into Code, One App at a Time",
   summary:
-    "As a CSE student at SRM University, Chennai, I’m passionate about building transformative iOS projects and full-stack applications. I thrive on crafting innovative solutions that tackle real-world challenges, whether working on solo projects or collaborating with talented peers. With a commitment to continuous growth, I’m driven to share knowledge and make a lasting impact in the tech community.",
+    "As an iOS and full-stack student developer at SRM University, Chennai, I specialize in creating end-to-end solutions. My expertise spans iOS development using Swift and SwiftUI, complemented by full-stack capabilities in building scalable web applications. A natural team leader with strong communication skills, I excel at delivering user-centric solutions while meeting tight deadlines and mentoring peers to achieve collective excellence.",
   avatarUrl: "/profileimg.jpeg",
   skills: [
     "React",
@@ -54,7 +54,7 @@ export const DATA = {
         url: "#",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
@@ -74,7 +74,7 @@ export const DATA = {
   education: [
     {
       school: "SRM Institue of Science and Technolgy",
-      href: "https://buildspace.so",
+      href: "¸¸",
       degree: "BTECH CSE",
       logoUrl: "/Srmseal.png",
       start: "2022",
@@ -82,7 +82,7 @@ export const DATA = {
     },
     {
       school: "Velammal Vidyalaiya ",
-      href: "https://uwaterloo.ca",
+      href: "",
       degree: "12th Grade",
       logoUrl: "/12.png",
       start: "2022",
@@ -90,7 +90,7 @@ export const DATA = {
     },
     {
       school: "The Little Kingdom Senior School,Theni",
-      href: "https://wlu.ca",
+      href: "",
       degree: "10th Grade",
       logoUrl: "/10.png",
       start: "2019",
@@ -120,7 +120,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/SIH.png"
+      image: ""
     },
     {
       title: "Jobby App",
@@ -142,11 +142,11 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "",
     },
     {
       title: "Leaning Steps",
-      href: "",
+      href: "https://github.com/Rev0212s",
       dates: "Feb 2024",
       active: true,
       description:
@@ -157,11 +157,11 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Learning.jpg",
+      image: "",
      
     },
     {
