@@ -8,7 +8,7 @@ export const DATA = {
   location: "Chennai, TamilNadu",
   locationLink: "https://www.google.com/maps/place/chennai",
   description:
-    "Turning Ideas into Code, One App at a Time",
+    "Turning Ideas into Code, Balancing Creativity, Multitasking, and Innovation with Every Line",
   summary:
     "As an iOS and full-stack student developer at SRM University, Chennai, I specialize in creating end-to-end solutions. My expertise spans iOS development using Swift and SwiftUI, complemented by full-stack capabilities in building scalable web applications. A natural team leader with strong communication skills, I excel at delivering user-centric solutions while meeting tight deadlines and mentoring peers to achieve collective excellence.",
   avatarUrl: "/profileimg.jpeg",
@@ -20,6 +20,8 @@ export const DATA = {
     "SQL",
     "Java",
     "C++",
+    "Javascipt",
+    "c"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
